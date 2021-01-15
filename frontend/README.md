@@ -1,4 +1,4 @@
-Join our community servers we have OFCInfantery 1725  and Underground24-7 2192# Coffee Shop Frontend
+ Coffee Shop Frontend
 
 ## Getting Setup
 
